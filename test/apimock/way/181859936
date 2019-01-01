@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (1901 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="181859936" visible="true" version="5" changeset="36439174" timestamp="2016-01-08T07:03:29Z" user="czechreg" uid="787799">
+  <nd ref="1922271902"/>
+  <nd ref="1922271843"/>
+  <nd ref="1922271841"/>
+  <nd ref="1922271839"/>
+  <nd ref="1922271837"/>
+  <nd ref="1922271836"/>
+  <nd ref="1922271834"/>
+  <nd ref="1922271832"/>
+  <nd ref="1922271830"/>
+  <nd ref="1922271828"/>
+  <nd ref="1922271826"/>
+  <nd ref="1922271825"/>
+  <nd ref="1922271824"/>
+  <nd ref="1922271823"/>
+  <nd ref="1922271822"/>
+  <nd ref="1922271821"/>
+  <nd ref="1922271820"/>
+  <nd ref="1922271819"/>
+  <nd ref="1922271818"/>
+  <nd ref="1922271817"/>
+  <nd ref="1922271816"/>
+  <nd ref="1922271815"/>
+  <nd ref="1922271814"/>
+  <nd ref="1922271813"/>
+  <nd ref="1922271812"/>
+  <nd ref="1922271811"/>
+  <nd ref="1922271810"/>
+  <nd ref="1922271809"/>
+  <nd ref="1922271808"/>
+  <nd ref="1922271806"/>
+  <nd ref="1922271803"/>
+  <nd ref="1922271801"/>
+  <nd ref="1922271799"/>
+  <nd ref="1922271845"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="cuzk:ruian"/>
+ </way>
+</osm>

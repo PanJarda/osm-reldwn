@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (1978 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="181931129" visible="true" version="2" changeset="17722838" timestamp="2013-09-07T19:36:56Z" user="Daniel Baránek" uid="598980">
+  <nd ref="1901678646"/>
+  <nd ref="1901678645"/>
+  <nd ref="1901678644"/>
+  <nd ref="1901678643"/>
+  <tag k="admin_level" v="7"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="cuzk:ruian"/>
+ </way>
+</osm>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (1970 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1901666574" visible="true" version="1" changeset="13004744" timestamp="2012-09-06T03:54:53Z" user="czechreg" uid="787799" lat="49.1521455" lon="16.5963412"/>
+</osm>

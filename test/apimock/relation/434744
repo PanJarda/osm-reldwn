@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (1973 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="434744" visible="true" version="5" changeset="13178188" timestamp="2012-09-20T02:23:44Z" user="czechreg" uid="787799">
+  <member type="way" ref="181859936" role="outer"/>
+  <member type="way" ref="181957702" role="outer"/>
+  <member type="way" ref="181957829" role="outer"/>
+  <member type="way" ref="181960009" role="outer"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Rudolfov"/>
+  <tag k="ref" v="682446"/>
+  <tag k="source" v="cuzk:km"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+</osm>
