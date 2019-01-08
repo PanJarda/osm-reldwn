@@ -2,6 +2,7 @@
 #
 # Test for reldwn.sh
 # ==================
+#
 
 # does not work when executing this script via symlink
 dir=$(cd -- "$(dirname -- "$0")" && pwd)
